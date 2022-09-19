@@ -318,6 +318,17 @@ li {
   margin: auto;
   transform: rotate(-45deg);
 }
+
+.skills-icon-container {
+  list-style: none;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: large;
+  margin-top: 2rem;
+}
 /* End services */
 
 
@@ -648,6 +659,3 @@ input[type="submit"]:hover {
     right: 2rem;
   }
 }
-
-
-
