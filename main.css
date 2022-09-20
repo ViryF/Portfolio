@@ -272,8 +272,16 @@ li {
   color: #0077B5;
 }
 
+.fa-file-alt:hover {
+  color:rgba(255,255,255, .3)
+}
+
 .fa-dribble-square:hover {
   color: #ea4c89
+}
+
+.fa-envelope-open-text:hover {
+  color: rgb(17, 66, 109);
 }
 /* End about */
 
@@ -350,6 +358,10 @@ li {
 .profile-img {
   width: 50rem;
   flex: 1;
+}
+
+.portfolio-img {
+  max-width: 700px;
 }
 
 .portfolio-description {
