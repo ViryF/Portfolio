@@ -339,8 +339,8 @@ li {
 }
 
 .postgresql {
-  max-width: 4%;
-  background-color: white;
+  /* max-width: %; */
+  /* background-color: white; */
 }
 
 .mongodb {
