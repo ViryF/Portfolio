@@ -334,8 +334,27 @@ li {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  font-size: large;
+  font-size: xx-large;
   margin-top: 2rem;
+}
+
+.postgresql {
+  max-width: 4%;
+  background-color: white;
+}
+
+.mongodb {
+  max-width: 5%;
+  background-color: white;
+}
+
+.vscode {
+  max-width: 4%;
+  background-color: white;
+}
+
+.firebase { 
+  max-width: 4%;
 }
 /* End skills */
 
