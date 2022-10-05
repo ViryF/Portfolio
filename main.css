@@ -338,11 +338,6 @@ li {
   margin-top: 2rem;
 }
 
-.postgresql {
-  /* max-width: %; */
-  /* background-color: white; */
-}
-
 .mongodb {
   max-width: 5%;
   background-color: white;
@@ -381,7 +376,7 @@ li {
 }
 
 .portfolio-img {
-  max-width: 700px;
+  max-width: 650px;
 }
 
 .portfolio-description {
